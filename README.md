@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800px" src="https://github.com/isaemi/isaemi/blob/main/Logo.gi" />
+  <img width="800px" src="https://github.com/isaemi/isaemi/blob/main/Logo.gif" />
   <img src="https://github-readme-stats.vercel.app/api?username=isaemi&show_icons=true&theme=radical&border_color=ea319f" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaemi&layout=compact&theme=radical&border_color=ea319f" />
 </div>
