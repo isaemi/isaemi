@@ -1,17 +1,24 @@
 <div align="center">
   <img width="800px" src="https://github.com/isaemi/isaemi/blob/main/Logo.gif" />
-  <img src="https://github-readme-stats-bay-tau-17.vercel.app/api?username=isaemi&count_private=true&show_icons=true&theme=radical&border_color=708090&hide=issues" />
-  <img src="https://github-readme-stats-bay-tau-17.vercel.app/api/top-langs/?username=isaemi&layout=compact&langs_count=6&count_private=true&theme=radical&border_color=708090" />
+  <img 
+    style="height:175px;" 
+    src="https://github-readme-stats-bay-tau-17.vercel.app/api?username=isaemi&count_private=true&show_icons=true&theme=radical&border_color=708090&hide=issues" 
+  />
+  <img 
+    style="height:175px;" 
+    src="https://github-readme-stats-bay-tau-17.vercel.app/api/top-langs/?username=isaemi&layout=compact&langs_count=6&count_private=true&theme=radical&border_color=708090&hide=css,shell"
+  />
+</div>
 
 
 
 </div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/r-276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/r-276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
