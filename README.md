@@ -1,7 +1,7 @@
 <div align="center">
   <img width="800px" src="https://github.com/isaemi/isaemi/blob/main/Logo.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=isaemi&show_icons=true&theme=radical&border_color=708090" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaemi&layout=compact&theme=radical&border_color=708090" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaemi&show_icons=true&count_private=true&theme=radical&border_color=708090" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaemi&layout=compact&count_private=true&theme=radical&border_color=708090" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
